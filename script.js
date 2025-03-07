@@ -103,3 +103,4 @@ function operate(operator, a, b) {
             return "Error: Invalid operator";
     }
 }
+
